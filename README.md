@@ -19,6 +19,15 @@ Bienvenido a la API de Adopción de Gatitos, donde el poder de Django Rest Frame
    Instala las dependencias necesarias utilizando el archivo requirements.txt `pip install -r requirements.txt`
 4. Ejecutar el Servidor `py manage.py runserver`
 
+## Explora el Admin
+
+Es importante saber manejar la magia de nuestros gatitos, esto lo vamos hacer mediante un admin
+
+- Accede a:
+  `http://127.0.0.1:8000/admin/`
+  - User: santy
+  - Password: 1234
+
 ## Explorar la API
 
 cada ruta es una puerta a la ternura y la posibilidad de encontrar un compañero peludo. Explora nuestros encantadores endpoints💘:
