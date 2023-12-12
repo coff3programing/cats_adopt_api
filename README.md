@@ -17,7 +17,7 @@ Bienvenido a la API de Adopción de Gatitos, donde el poder de Django Rest Frame
    Para activar hagalo desde el shell de windows con el comando `venv\Scripts\activate`
 3. Instalación de Dependencias
    Instala las dependencias necesarias utilizando el archivo requirements.txt `pip install -r requirements.txt`
-4. Ejecutar el Servidor
+4. Ejecutar el Servidor `py manage.py runserver`
 
 ## Explorar la API
 
